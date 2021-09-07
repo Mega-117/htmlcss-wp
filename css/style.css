@@ -120,6 +120,9 @@ li:hover a{
     margin-right: 15px;    
 }
 
+.overlay-img>img{
+    width: 100%;
+}
 
 .block-7{
     background-color: #8801fe;
